@@ -1,0 +1,10 @@
+<svg width="512" height="180" viewBox="0 0 512 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="180" rx="24" fill="white"/>
+  <g transform="translate(116 22)">
+    <circle cx="40" cy="40" r="38" fill="#FF4D5E"/>
+    <circle cx="40" cy="40" r="26" fill="none" stroke="white" stroke-width="10"/>
+    <circle cx="40" cy="40" r="14" fill="none" stroke="white" stroke-width="10"/>
+    <circle cx="40" cy="40" r="6" fill="white"/>
+  </g>
+  <text x="256" y="146" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="400" fill="#FF4D5E">DeepLearning.AI</text>
+</svg>

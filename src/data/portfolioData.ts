@@ -6,6 +6,7 @@ import project1Img from '../assets/images/project_student_success_1785778779069.
 import project2Img from '../assets/images/project_agenda_craft_1785778805875.jpg';
 import project3Img from '../assets/images/project_emotion_detector_1785778830158.jpg';
 import project4Img from '../assets/images/project_multi_agent_1785778853779.jpg';
+import deepLearningAiLogo from '../assets/images/deeplearning-ai-logo.svg';
 
 export const PERSONAL_INFO = {
   name: 'Haseeb',
@@ -249,7 +250,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'DeepLearning.AI & Stanford',
     date: 'Jul 31, 2026',
     verifyUrl: 'https://coursera.org/verify/RTPTHF9GXHDY',
-    logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Deeplearning.ai_logo.png',
+    logo: deepLearningAiLogo,
     skills: ['Supervised Machine Learning', 'Regression', 'Classification', 'Neural Networks', 'Cost Functions', 'Gradient Descent'],
     completedDetails: ['Supervised Machine Learning: Regression and Classification'],
     certificateSummary:
@@ -285,7 +286,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'DeepLearning.AI',
     date: 'Jul 7, 2026',
     verifyUrl: 'https://coursera.org/verify/professional-cert/2T604LRB374Y',
-    logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Deeplearning.ai_logo.png',
+    logo: deepLearningAiLogo,
     coursesCount: 3,
     skills: ['LLMs', 'AI Software Engineering', 'Prompt Engineering', 'System Design', 'Team Engineering with AI'],
     completedDetails: [
