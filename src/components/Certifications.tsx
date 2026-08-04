@@ -48,12 +48,20 @@ export const Certifications: React.FC<CertificationsProps> = ({ isDarkMode }) =>
               <div>
                 {/* Header: Logo & Provider */}
                 <div className="flex items-start justify-between gap-4 mb-6">
-                  <div className="w-14 h-14 rounded-2xl bg-white p-2.5 flex items-center justify-center border border-slate-700 shadow-md shrink-0 group-hover:scale-105 transition-transform">
+                  <div
+                    className={`rounded-2xl bg-white flex items-center justify-center border border-slate-700 shadow-md shrink-0 group-hover:scale-105 transition-transform overflow-hidden ${
+                      cert.provider.includes('DeepLearning.AI')
+                        ? 'w-20 h-14 px-2 py-1.5 sm:w-24 sm:h-16 sm:px-3'
+                        : 'w-14 h-14 p-2.5'
+                    }`}
+                  >
                     <img
                       src={cert.logo}
                       alt={cert.provider}
                       referrerPolicy="no-referrer"
-                      className="max-w-full max-h-full object-contain"
+                      className={`object-contain ${
+                        cert.provider.includes('DeepLearning.AI') ? 'w-full h-full' : 'max-w-full max-h-full'
+                      }`}
                     />
                   </div>
 

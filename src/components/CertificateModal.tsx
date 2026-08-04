@@ -45,12 +45,20 @@ export const CertificateModal: React.FC<CertificateModalProps> = ({ cert, onClos
 
           {/* Header */}
           <div className="flex items-center gap-4 mb-6">
-            <div className="w-16 h-16 rounded-2xl bg-white p-2 flex items-center justify-center border border-slate-700 shadow-md shrink-0">
+            <div
+              className={`rounded-2xl bg-white flex items-center justify-center border border-slate-700 shadow-md shrink-0 overflow-hidden ${
+                cert.provider.includes('DeepLearning.AI')
+                  ? 'w-24 h-16 px-3 py-2'
+                  : 'w-16 h-16 p-2'
+              }`}
+            >
               <img
                 src={cert.logo}
                 alt={cert.provider}
                 referrerPolicy="no-referrer"
-                className="max-w-full max-h-full object-contain"
+                className={`object-contain ${
+                  cert.provider.includes('DeepLearning.AI') ? 'w-full h-full' : 'max-w-full max-h-full'
+                }`}
               />
             </div>
             <div>
