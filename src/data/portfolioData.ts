@@ -1,9 +1,7 @@
 import { Project, Certification, SkillCategory, GitHubStats } from '../types';
 
-// Profile picture path
-// Use a root-relative URL for the profile image to avoid import resolution issues
-// Vite will serve files under `/src` during dev.
-const profileImg = '/src/assets/images/profile_picture_1785778751198.jpg';
+// Profile picture: import so Vite bundles the image for production builds
+import profileImg from '../assets/images/profile_picture_1785778751198.jpg';
 import project1Img from '../assets/images/project_student_success_1785778779069.jpg';
 import project2Img from '../assets/images/project_agenda_craft_1785778805875.jpg';
 import project3Img from '../assets/images/project_emotion_detector_1785778830158.jpg';
