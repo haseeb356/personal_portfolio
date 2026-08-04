@@ -249,7 +249,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'DeepLearning.AI & Stanford',
     date: 'Jul 31, 2026',
     verifyUrl: 'https://coursera.org/verify/RTPTHF9GXHDY',
-    logo: 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Stanford_University_seal_2003.svg',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Deeplearning.ai_logo.png',
     skills: ['Supervised Machine Learning', 'Regression', 'Classification', 'Neural Networks', 'Cost Functions', 'Gradient Descent'],
     completedDetails: ['Supervised Machine Learning: Regression and Classification'],
     certificateSummary:

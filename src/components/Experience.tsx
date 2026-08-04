@@ -22,7 +22,7 @@ export const Experience: React.FC<ExperienceProps> = ({ isDarkMode }) => {
       icon: Code2,
     },
     {
-      period: '2023 - Present',
+      period: '2024 - Present',
       title: 'BS Computer Science',
       institution: 'UET Lahore (University of Engineering & Technology)',
       description:

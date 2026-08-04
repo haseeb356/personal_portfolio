@@ -89,7 +89,7 @@ export const Hero: React.FC<HeroProps> = ({ isDarkMode }) => {
               target="_blank"
               rel="noopener noreferrer"
               id="btn-hero-fiverr"
-              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl font-bold text-white bg-[#1dbf73] hover:bg-[#18a965] shadow-[0_0_20px_rgba(29,191,115,0.25)] transition-all duration-300 hover:scale-[1.02] active:scale-[0.98]"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl font-bold text-slate-950 bg-[#1dbf73] hover:bg-[#18a965] shadow-[0_0_20px_rgba(29,191,115,0.25)] transition-all duration-300 hover:scale-[1.02] active:scale-[0.98]"
             >
               <span>Hire me on Fiverr</span>
             </a>
