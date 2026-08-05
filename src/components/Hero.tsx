@@ -48,8 +48,8 @@ export const Hero: React.FC<HeroProps> = ({ isDarkMode }) => {
           </h1>
 
           {/* Fixed Role Line (static) */}
-          <div className="text-xl sm:text-2xl lg:text-3xl font-medium text-slate-700 dark:text-slate-300 mb-6 h-12 flex items-center">
-            <span className="whitespace-nowrap bg-linear-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent drop-shadow-[0_0_25px_rgba(6,182,212,0.3)]">
+          <div className="text-lg sm:text-2xl lg:text-3xl font-medium text-slate-700 dark:text-slate-300 mb-6 leading-tight">
+            <span className="whitespace-normal break-words bg-linear-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent drop-shadow-[0_0_25px_rgba(6,182,212,0.3)]">
               Full Stack AI Developer & AI/ML Engineer
             </span>
           </div>
