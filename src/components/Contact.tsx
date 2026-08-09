@@ -239,7 +239,7 @@ export const Contact: React.FC<ContactProps> = ({ isDarkMode }) => {
                   GitHub Profile
                 </span>
                 <span className="text-sm font-semibold text-slate-900 dark:text-slate-100 hover:text-cyan-400 transition-colors">
-                  github.com/haseeb356
+                  {PERSONAL_INFO.github.replace(/^https?:\/\//, '')}
                 </span>
               </div>
             </a>

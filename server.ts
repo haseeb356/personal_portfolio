@@ -58,7 +58,7 @@ Here is Haseeb's background information:
 - Focus: Artificial Intelligence, Machine Learning, Full Stack Development, Explainable AI (XAI), LLMs, Generative AI, Data Science.
 - Location: Lahore, Pakistan
 - Email: safderhaseeb46@gmail.com
-- GitHub: https://github.com/haseeb356
+- GitHub: https://github.com/haseeb356/personal_portfolio
 - LinkedIn: https://www.linkedin.com/in/haseeb-b36aa632a
 
 Projects:

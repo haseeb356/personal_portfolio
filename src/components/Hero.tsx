@@ -7,6 +7,7 @@ import {
   Linkedin,
   Mail,
   ArrowRight,
+  FileText,
   MessageCircle,
   Brain,
   MapPin,
@@ -15,9 +16,10 @@ import {
 
 interface HeroProps {
   isDarkMode: boolean;
+  onViewResume: () => void;
 }
 
-export const Hero: React.FC<HeroProps> = ({ isDarkMode }) => {
+export const Hero: React.FC<HeroProps> = ({ isDarkMode, onViewResume }) => {
   return (
     <section
       id="hero"
@@ -70,6 +72,17 @@ export const Hero: React.FC<HeroProps> = ({ isDarkMode }) => {
               <span>View Projects</span>
               <ArrowRight className="w-5 h-5 text-slate-950" />
             </a>
+
+            {/* Secondary: See Resume */}
+            <button
+              type="button"
+              onClick={onViewResume}
+              id="btn-hero-resume"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl font-semibold text-slate-100 border border-cyan-500/35 bg-slate-900/70 hover:bg-slate-800 hover:border-cyan-400 shadow-[0_0_20px_rgba(6,182,212,0.18)] transition-all duration-300 hover:scale-[1.02] active:scale-[0.98]"
+            >
+              <FileText className="w-5 h-5 text-cyan-400" />
+              <span>See Resume</span>
+            </button>
 
             {/* Secondary: Chat on WhatsApp */}
             <a

@@ -11,8 +11,10 @@ import { GitHubSection } from './components/GitHubSection';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { BackToTop } from './components/BackToTop';
+import { ResumeModal } from './components/ResumeModal';
 
 export default function App() {
+  const [isResumeOpen, setIsResumeOpen] = useState(false);
   const isDarkMode = true;
 
   useEffect(() => {
@@ -35,7 +37,7 @@ export default function App() {
 
       {/* Main Content Sections */}
       <main className="relative z-10">
-        <Hero isDarkMode={isDarkMode} />
+        <Hero isDarkMode={isDarkMode} onViewResume={() => setIsResumeOpen(true)} />
         <About isDarkMode={isDarkMode} />
         <Skills isDarkMode={isDarkMode} />
         <Projects isDarkMode={isDarkMode} />
@@ -47,6 +49,8 @@ export default function App() {
 
       {/* Footer */}
       <Footer isDarkMode={isDarkMode} />
+
+      <ResumeModal isOpen={isResumeOpen} onClose={() => setIsResumeOpen(false)} />
 
       {/* Floating Back to Top Button */}
       <BackToTop />
