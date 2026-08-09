@@ -1,14 +1,12 @@
 import React, { useEffect } from 'react';
 import { AnimatePresence, motion } from 'motion/react';
 import { ExternalLink, FileDown, X } from 'lucide-react';
-import { buildResumePdfDataUrl } from '../utils/resumePdf';
+import resumePdfUrl from '../assets/files/Haseeb_Resume.pdf';
 
 interface ResumeModalProps {
   isOpen: boolean;
   onClose: () => void;
 }
-
-const resumePdfDataUrl = buildResumePdfDataUrl();
 
 export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => {
   useEffect(() => {
@@ -62,7 +60,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
 
               <div className="flex items-center gap-2">
                 <a
-                  href={resumePdfDataUrl}
+                  href={resumePdfUrl}
                   download="Haseeb_Resume.pdf"
                   className="inline-flex items-center gap-2 rounded-xl border border-slate-700 bg-slate-800 px-3 py-2 text-xs font-semibold text-slate-200 transition-colors hover:border-cyan-500/40 hover:text-cyan-300"
                 >
@@ -70,7 +68,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
                   <span className="hidden sm:inline">Download</span>
                 </a>
                 <a
-                  href={resumePdfDataUrl}
+                  href={resumePdfUrl}
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 rounded-xl bg-linear-to-r from-cyan-400 to-blue-500 px-3 py-2 text-xs font-bold text-slate-950 transition-transform hover:scale-[1.02]"
@@ -92,7 +90,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
             <div className="h-[78vh] bg-slate-950">
               <iframe
                 title="Haseeb Resume PDF"
-                src={resumePdfDataUrl}
+                src={resumePdfUrl}
                 className="h-full w-full"
               />
             </div>
