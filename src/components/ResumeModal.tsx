@@ -3,6 +3,8 @@ import { AnimatePresence, motion } from 'motion/react';
 import { ExternalLink, FileDown, X } from 'lucide-react';
 import resumePdfUrl from '../assets/files/Haseeb_Resume.pdf';
 
+const resumePdfViewerUrl = `${resumePdfUrl}#zoom=page-width`;
+
 interface ResumeModalProps {
   isOpen: boolean;
   onClose: () => void;
@@ -68,7 +70,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
                   <span className="hidden sm:inline">Download</span>
                 </a>
                 <a
-                  href={resumePdfUrl}
+                  href={resumePdfViewerUrl}
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 rounded-xl bg-linear-to-r from-cyan-400 to-blue-500 px-3 py-2 text-xs font-bold text-slate-950 transition-transform hover:scale-[1.02]"
@@ -90,7 +92,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
             <div className="h-[78vh] bg-slate-950">
               <iframe
                 title="Haseeb Resume PDF"
-                src={resumePdfUrl}
+                src={resumePdfViewerUrl}
                 className="h-full w-full"
               />
             </div>
