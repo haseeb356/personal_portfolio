@@ -6,60 +6,65 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 3 0 obj
-<< /Length 5632 >>
+<< /Length 5824 >>
 stream
-BT /F2 20.00 Tf 1 0 0 1 297.64 803.89 Tm (HASEEB) Tj ET
-BT /F2 10.50 Tf 1 0 0 1 297.64 774.89 Tm (Computer Science Student | AI/ML & Full-Stack Development) Tj ET
-BT /F1 9.20 Tf 1 0 0 1 297.64 759.89 Tm (Lahore, Pakistan | 0309-1688369 | safderhaseeb46@gmail.com) Tj ET
-BT /F1 9.20 Tf 1 0 0 1 297.64 747.89 Tm (linkedin.com/in/haseeb-b36aa632a | github.com/haseeb356 | haseeb-tech-dev-13.vercel.app) Tj ET
-BT /F2 9.40 Tf 1 0 0 1 42.00 727.89 Tm (SUMMARY) Tj ET
-BT /F1 9.60 Tf 1 0 0 1 42.00 713.89 Tm (Computer Science student at UET Lahore with hands-on experience building machine learning,) Tj ET
-BT /F1 9.60 Tf 1 0 0 1 42.00 701.89 Tm (generative AI, and full-stack applications using Python, React, FastAPI, Flask, and modern ML) Tj ET
-BT /F1 9.60 Tf 1 0 0 1 42.00 689.89 Tm (frameworks. Experienced in developing, evaluating, and deploying practical software solutions) Tj ET
-BT /F1 9.60 Tf 1 0 0 1 42.00 677.89 Tm (through independent and collaborative projects, with a focus on explainable AI and LLM-powered) Tj ET
-BT /F1 9.60 Tf 1 0 0 1 42.00 665.89 Tm (tools. Seeking AI/ML, AI Engineering, or Full-Stack Development internship opportunities.) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 653.89 Tm () Tj ET
-BT /F2 9.40 Tf 1 0 0 1 42.00 637.89 Tm (EDUCATION) Tj ET
-BT /F1 9.60 Tf 1 0 0 1 42.00 623.89 Tm (BS Computer Science - University of Engineering and Technology \(UET\), Lahore) Tj ET
-BT /F2 9.40 Tf 1 0 0 1 42.00 607.89 Tm (TECHNICAL SKILLS) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 593.89 Tm (Languages: Python, JavaScript, TypeScript, SQL) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 581.89 Tm (Machine Learning: Machine Learning, Scikit-learn, TensorFlow, SHAP, Explainable AI \(XAI\)) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 569.89 Tm (Generative AI: Large Language Models \(LLMs\), Prompt Engineering, Google Gemini API, IBM Watson NLP) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 557.89 Tm (Web & Backend: React, Vite, HTML, CSS, FastAPI, Flask, Node.js, Express.js, REST APIs) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 545.89 Tm (Databases: SQLite, PostgreSQL) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 533.89 Tm (Tools: Git, GitHub, VS Code, Jupyter Notebook, Postman) Tj ET
-BT /F2 9.40 Tf 1 0 0 1 42.00 517.89 Tm (PROJECTS) Tj ET
-BT /F2 9.35 Tf 1 0 0 1 42.00 503.89 Tm (AI Student Success Predictor | Python, Scikit-learn, FastAPI, React, Pandas, NumPy, SHAP) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 491.89 Tm (- Built a full-stack machine learning application predicting student outcomes \(Dropout, Enrolled,) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 480.89 Tm (- Graduate\) through an end-to-end pipeline covering data cleaning, exploratory data analysis, and) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 469.89 Tm (- statistical hypothesis testing \(ANOVA, Chi-Square\).) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 458.89 Tm (- Engineered features and trained/compared Logistic Regression, Random Forest, and Gradient) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 447.89 Tm (- Boosting classifiers, applying SHAP for model explainability.) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 436.89 Tm (- Developed a FastAPI backend to serve predictions and a React dashboard for interactive) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 425.89 Tm (- visualization of results.) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 414.89 Tm () Tj ET
-BT /F2 9.35 Tf 1 0 0 1 42.00 400.89 Tm (Agenda Craft AI | Node.js, Express, React, TypeScript, Google Gemini API) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 388.89 Tm (- Developed an AI-powered meeting agenda generator that analyzes uploaded documents \(via Multer) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 377.89 Tm (- and Mammoth\) and produces structured agendas with summaries, stakeholders, and action items.) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 366.89 Tm (- Integrated the Google Gemini API with prompt engineering to generate structured JSON output,) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 355.89 Tm (- including intelligent time allocation for meeting segments.) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 344.89 Tm (- Built the application across an Express.js backend and a React frontend.) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 333.89 Tm () Tj ET
-BT /F2 9.35 Tf 1 0 0 1 42.00 319.89 Tm (Multi-Agent Research Intelligence System \(Team Project\) | Python, Streamlit, Google Gemini API, arXiv API) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 307.89 Tm (- Collaborated on an AI-powered multi-agent platform that searches, analyzes, and summarizes) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 296.89 Tm (- academic papers using the Gemini API and arXiv API, including literature review and research gap) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 285.89 Tm (- analysis.) Tj ET
-BT /F1 9.00 Tf 1 0 0 1 42.00 274.89 Tm (- Served as Project Manager, coordinating planning, task execution, and delivery across the team.) Tj ET
-BT /F1 9.40 Tf 1 0 0 1 42.00 263.89 Tm () Tj ET
-BT /F2 9.40 Tf 1 0 0 1 42.00 249.89 Tm (CERTIFICATIONS) Tj ET
-BT /F1 9.30 Tf 1 0 0 1 42.00 235.89 Tm (IBM AI Developer Professional Certificate - IBM \(Coursera\)) Tj ET
-BT /F1 9.30 Tf 1 0 0 1 42.00 223.89 Tm (Machine Learning Specialization - DeepLearning.AI & Stanford University \(Coursera\)) Tj ET
-BT /F1 9.30 Tf 1 0 0 1 42.00 211.89 Tm (Google AI Professional Certificate - Google \(Coursera\)) Tj ET
-BT /F1 9.30 Tf 1 0 0 1 42.00 199.89 Tm (Generative AI for Software Development - DeepLearning.AI \(Coursera\)) Tj ET
-BT /F1 9.30 Tf 1 0 0 1 42.00 187.89 Tm (Google AI Essentials - Google \(Coursera\)) Tj ET
-BT /F2 9.40 Tf 1 0 0 1 42.00 171.89 Tm (ACHIEVEMENTS) Tj ET
-BT /F1 9.30 Tf 1 0 0 1 42.00 157.89 Tm (Merit-Based Honhaar Scholarship - Undergraduate Studies) Tj ET
-BT /F1 9.30 Tf 1 0 0 1 42.00 145.89 Tm (Laptop Award - Chief Minister's Laptop Scheme) Tj ET
+BT /F2 17.00 Tf 1 0 0 1 271.12 803.89 Tm (HASEEB) Tj ET
+BT /F2 10.20 Tf 1 0 0 1 146.48 781.49 Tm (Computer Science Student | AI/ML & Full-Stack Development) Tj ET
+BT /F1 8.80 Tf 1 0 0 1 164.94 767.69 Tm (Lahore, Pakistan | 0309-1688369 | safderhaseeb46@gmail.com) Tj ET
+BT /F1 8.80 Tf 1 0 0 1 98.58 756.69 Tm (linkedin.com/in/haseeb-b36aa632a | github.com/haseeb356 | haseeb-tech-dev-13.vercel.app) Tj ET
+BT /F2 10.80 Tf 1 0 0 1 42.00 743.69 Tm (SUMMARY) Tj ET
+0.5 w 42.00 741.69 m 553.28 741.69 l S
+BT /F1 9.10 Tf 1 0 0 1 42.00 728.69 Tm (Computer Science student at UET Lahore with hands-on experience building machine learning,) Tj ET
+BT /F1 9.10 Tf 1 0 0 1 42.00 716.99 Tm (generative AI, and full-stack applications using Python, React, FastAPI, Flask, and modern) Tj ET
+BT /F1 9.10 Tf 1 0 0 1 42.00 705.29 Tm (ML frameworks. Experienced in developing, evaluating, and deploying practical software) Tj ET
+BT /F1 9.10 Tf 1 0 0 1 42.00 693.59 Tm (solutions through independent and collaborative projects, with a focus on explainable AI and) Tj ET
+BT /F1 9.10 Tf 1 0 0 1 42.00 681.89 Tm (LLM-powered tools. Seeking AI/ML, AI Engineering, or Full-Stack Development internship) Tj ET
+BT /F1 9.10 Tf 1 0 0 1 42.00 670.19 Tm (opportunities.) Tj ET
+BT /F2 10.80 Tf 1 0 0 1 42.00 654.49 Tm (EDUCATION) Tj ET
+0.5 w 42.00 652.49 m 553.28 652.49 l S
+BT /F1 9.20 Tf 1 0 0 1 42.00 639.49 Tm (BS Computer Science - University of Engineering and Technology \(UET\), Lahore) Tj ET
+BT /F2 10.80 Tf 1 0 0 1 42.00 627.49 Tm (TECHNICAL SKILLS) Tj ET
+0.5 w 42.00 625.49 m 553.28 625.49 l S
+BT /F1 9.20 Tf 1 0 0 1 42.00 612.49 Tm (Languages: Python, JavaScript, TypeScript, SQL) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 600.49 Tm (Machine Learning: Machine Learning, Scikit-learn, TensorFlow, SHAP, Explainable AI \(XAI\)) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 588.49 Tm (Generative AI: Large Language Models \(LLMs\), Prompt Engineering, Google Gemini API, IBM Watson NLP) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 576.49 Tm (Web & Backend: React, Vite, HTML, CSS, FastAPI, Flask, Node.js, Express.js, REST APIs) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 564.49 Tm (Databases: SQLite, PostgreSQL) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 552.49 Tm (Tools: Git, GitHub, VS Code, Jupyter Notebook, Postman) Tj ET
+BT /F2 10.80 Tf 1 0 0 1 42.00 540.49 Tm (PROJECTS) Tj ET
+0.5 w 42.00 538.49 m 553.28 538.49 l S
+BT /F2 9.20 Tf 1 0 0 1 42.00 525.49 Tm (AI Student Success Predictor | Python, Scikit-learn, FastAPI, React, Pandas, NumPy, SHAP) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 513.29 Tm (- Built a full-stack machine learning application predicting student outcomes \(Dropout,) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 502.39 Tm (  Enrolled, Graduate\) through an end-to-end pipeline covering data cleaning, exploratory) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 491.49 Tm (  data analysis, and statistical hypothesis testing \(ANOVA, Chi-Square\).) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 480.59 Tm (- Engineered features and trained/compared Logistic Regression, Random Forest, and Gradient) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 469.69 Tm (  Boosting classifiers, applying SHAP for model explainability.) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 458.79 Tm (- Developed a FastAPI backend to serve predictions and a React dashboard for interactive) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 447.89 Tm (  visualization of results.) Tj ET
+BT /F2 9.20 Tf 1 0 0 1 42.00 432.99 Tm (Agenda Craft AI | Node.js, Express, React, TypeScript, Google Gemini API) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 420.79 Tm (- Developed an AI-powered meeting agenda generator that analyzes uploaded documents \(via) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 409.89 Tm (  Multer and Mammoth\) and produces structured agendas with summaries, stakeholders, and) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 398.99 Tm (  action items.) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 388.09 Tm (- Integrated the Google Gemini API with prompt engineering to generate structured JSON) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 377.19 Tm (  output, including intelligent time allocation for meeting segments.) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 366.29 Tm (- Built the application across an Express.js backend and a React frontend.) Tj ET
+BT /F2 9.20 Tf 1 0 0 1 42.00 351.39 Tm (Multi-Agent Research Intelligence System \(Team Project\) | Python, Streamlit, Google Gemini API, arXiv API) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 339.19 Tm (- Collaborated on an AI-powered multi-agent platform that searches, analyzes, and summarizes) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 328.29 Tm (  academic papers using the Gemini API and arXiv API, including literature review and) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 317.39 Tm (  research gap analysis.) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 306.49 Tm (- Served as Project Manager, coordinating planning, task execution, and delivery across the) Tj ET
+BT /F1 8.95 Tf 1 0 0 1 42.00 295.59 Tm (  team.) Tj ET
+BT /F2 10.80 Tf 1 0 0 1 42.00 280.69 Tm (CERTIFICATIONS) Tj ET
+0.5 w 42.00 278.69 m 553.28 278.69 l S
+BT /F1 9.20 Tf 1 0 0 1 42.00 265.69 Tm (IBM AI Developer Professional Certificate - IBM \(Coursera\)) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 253.69 Tm (Machine Learning Specialization - DeepLearning.AI & Stanford University \(Coursera\)) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 241.69 Tm (Google AI Professional Certificate - Google \(Coursera\)) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 229.69 Tm (Generative AI for Software Development - DeepLearning.AI \(Coursera\)) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 217.69 Tm (Google AI Essentials - Google \(Coursera\)) Tj ET
+BT /F2 10.80 Tf 1 0 0 1 42.00 205.69 Tm (ACHIEVEMENTS) Tj ET
+0.5 w 42.00 203.69 m 553.28 203.69 l S
+BT /F1 9.20 Tf 1 0 0 1 42.00 190.69 Tm (Merit-Based Honhaar Scholarship - Undergraduate Studies) Tj ET
+BT /F1 9.20 Tf 1 0 0 1 42.00 178.69 Tm (Laptop Award - Chief Minister's Laptop Scheme) Tj ET
 endstream
 endobj
 4 0 obj
@@ -80,12 +85,12 @@ xref
 0000000009 00000 n 
 0000000079 00000 n 
 0000000154 00000 n 
-0000005838 00000 n 
-0000005897 00000 n 
-0000006039 00000 n 
-0000006088 00000 n 
+0000006030 00000 n 
+0000006089 00000 n 
+0000006231 00000 n 
+0000006280 00000 n 
 trailer
 << /Size 8 /Root 6 0 R /Info 7 0 R >>
 startxref
-6188
+6380
 %%EOF
