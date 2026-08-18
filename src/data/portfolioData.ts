@@ -16,7 +16,7 @@ export const PERSONAL_INFO = {
   email: 'safderhaseeb46@gmail.com',
   phone: '+923091688369',
   whatsapp: 'https://wa.me/923091688369',
-  github: 'https://github.com/haseeb356/personal_portfolio',
+  github: 'https://github.com/haseeb356',
   linkedin: 'https://www.linkedin.com/in/haseeb-b36aa632a',
   fiverr: 'https://www.fiverr.com/s/2KXoNQQ',
   profileImage: profileImg,
