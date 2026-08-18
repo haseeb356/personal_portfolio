@@ -137,7 +137,11 @@ export const Projects: React.FC<ProjectsProps> = ({ isDarkMode }) => {
                     {project.description}
                   </p>
                 </div>
-
+                {project.detailedSpecs?.overview && (
+                <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed mt-2 italic">
+                  {project.detailedSpecs.overview}
+                </p>
+                )}
                 {/* Highlights tags */}
                 <div className="flex flex-wrap gap-1.5">
                   {project.highlights.slice(0, 5).map((hl) => (
